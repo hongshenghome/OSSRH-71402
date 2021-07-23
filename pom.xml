@@ -34,7 +34,7 @@
     <scm>
         <connection>scm:git:git://https://github.com/w-er/OSSRH-71402.git</connection>
         <developerConnection>scm:git:ssh://github.com/w-er/OSSRH-71402.git</developerConnection>
-        <url>http://https://github.com/w-er/OSSRH-71402/tree/master</url>
+        <url>http://https://github.com/w-er/OSSRH-71402/tree/main</url>
     </scm>
 
     <distributionManagement>
